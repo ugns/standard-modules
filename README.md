@@ -17,6 +17,9 @@ pulled in via librarian-puppet automatically.
 - __luxflux/openvpn__: OpenVPN server puppet module
   - Current Version: 2.2.1
   - Upstream Source: https://github.com/luxflux/puppet-openvpn
+- __nibalizer/puppetboard__: Install and configure PuppetBoard
+  - Current Version: 1.3.0
+  - Upstream Source: https://github.com/nibalizer/puppet-module-puppetboard
 - __puppetlabs/apache__: Puppet module for Apache
   - Current Version: 0.10.0
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-apache
