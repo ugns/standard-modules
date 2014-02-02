@@ -11,6 +11,9 @@ pulled in via librarian-puppet automatically.
 - __dalen/puppetdbquery__: Query functions for the PuppetDB API
   - Current Version: 1.3.3
   - Upstream Source: https://github.com/dalen/puppet-puppetdbquery
+- __jbouse/common__: Common resources, classes & defines
+  - Current Version: 0.1.0
+  - Upstream Source: https://github.com/jbouse/puppet-common
 - __luxflux/openvpn__: OpenVPN server puppet module
   - Current Version: 2.2.1
   - Upstream Source: https://github.com/luxflux/puppet-openvpn
