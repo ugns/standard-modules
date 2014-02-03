@@ -47,3 +47,6 @@ pulled in via librarian-puppet automatically.
 - __stephenrjohnson/puppet__: Resource types for managing puppet master and agent
   - Current Version: 0.0.19
   - Upstream Source: https://github.com/stephenrjohnson/puppetmodule
+- __thias/postfix__: Postfix Mail Transport Agent module
+  - Current Version: 0.2.4
+  - Upstream Source: https://github.com/thias/puppet-postfix
