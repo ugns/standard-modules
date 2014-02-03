@@ -23,6 +23,9 @@ pulled in via librarian-puppet automatically.
 - __puppetlabs/apache__: Puppet module for Apache
   - Current Version: 0.10.0
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-apache
+- __puppetlabs/denyhosts__: Configure DenyHosts
+  - Current Version: 0.0.1
+  - Upstream Source: https://github.com/puppetlabs/puppetlabs-denyhosts
 - __puppetlabs/inifile__: Resource types for managing settings in INI files
   - Current Version: 1.0.0
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-inifile
