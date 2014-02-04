@@ -1,8 +1,8 @@
 forge "http://forge.puppetlabs.com"
 
-mod 'jbouse/common',
+mod 'common',
   :git => 'git@github.com:jbouse/puppet-common.git'
-mod 'ugns/profile',
+mod 'profile',
   :git => 'git@github.com:UGNS/puppet-profile.git'
 
 mod 'arnoudj/sudo', '1.1.1'
