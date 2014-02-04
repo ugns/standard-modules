@@ -1,6 +1,12 @@
-# Default puppet modules
+# Standard Puppet modules
 
-## Internal modules
+Below are all modules deployed within the environment.
+
+The Puppetfile is capable of being used with librarian
+or r10k to deploy. All dependencies are included that
+librarian would resolve, but r10k does not.
+
+## GitHub modules
 - __jbouse/common__: Common resources, classes & defines
   - Current Version: 0.1.0
   - Upstream Source: https://github.com/jbouse/puppet-common
