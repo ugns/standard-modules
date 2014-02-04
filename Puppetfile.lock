@@ -65,7 +65,7 @@ FORGE
       puppetlabs/apache (>= 0.8.0)
       puppetlabs/inifile (>= 1.0.0)
       puppetlabs/puppetdb (>= 2.0.0)
-    thias/postfix (0.2.4)
+    thias/postfix (0.3.0)
 
 GIT
   remote: git@github.com:jbouse/puppet-common.git
@@ -90,5 +90,5 @@ DEPENDENCIES
   puppetlabs/puppetdb (= 3.0.0)
   puppetlabs/stdlib (= 4.1.0)
   stephenrjohnson/puppet (= 0.0.19)
-  thias/postfix (= 0.2.4)
+  thias/postfix (= 0.3.0)
 
