@@ -1,7 +1,9 @@
 forge "http://forge.puppetlabs.com"
 
 mod 'jbouse/common',
-  :git => "git@github.com:jbouse/puppet-common.git"
+  :git => 'git@github.com:jbouse/puppet-common.git'
+mod 'ugns/profile',
+  :git => 'git@github.com:UGNS/puppet-profile.git'
 
 mod 'arnoudj/sudo', '1.1.1'
 mod 'dalen/puppetdbquery', '1.3.3'

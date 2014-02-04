@@ -10,6 +10,9 @@ librarian would resolve, but r10k does not.
 - __jbouse/common__: Common resources, classes & defines
   - Current Version: 0.1.0
   - Upstream Source: https://github.com/jbouse/puppet-common
+- __ugns/profile__: UnderGrid Network Services profile module
+  - Current Version: 0.1.0
+  - Upstream Source: https://github.com/UGNS/puppet-profile
 
 ## Puppet Forge modules
 - __arnoudj/sudo__: Manage sudoers
