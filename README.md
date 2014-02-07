@@ -1,12 +1,54 @@
 # Standard Puppet modules
 
+## The r10k configuration
+
+The `/etc/r10k.yaml` is setup with the following:
+
+```YAML
+:cachedir: '/var/cache/r10k'
+:sources:
+  :ugns:
+    remote: 'git@github.com:UGNS/standard-modules'
+    basedir: '/etc/puppet/environments'
+```
+
+This allows all branches of the repository to represent dynamic
+environments under the `/etc/puppet/environments` directory.
+
+Deployment is performed by simply running `r10k deploy environment -p`
+which is performed automatically by Jenkins CI through deploy hooks.
+
+## The puppet master configuration
+
+The `/etc/puppet/puppet.conf` config file `[master]` section
+is then updated with the following:
+
+```INI
+[master]
+modulepath = /etc/puppet/environments/$environment/modules
+manifest = /etc/puppet/environments/$environment/manifests/site.pp
+autosign = /etc/puppet/environments/$environment/scripts/autosigner.rb
+config_version = /etc/puppet/environments/$environment/scripts/config_version.sh $environment
+```
+At a minimum the `modulepath` and `manifest` are required to support the
+dynamic environments r10k deploys.
+
+The `autosign` script can handle automatically validating AWS EC2 instances
+and could be modified easily enough for additional validation.
+
+The ``config_version`` script is designed to work within our environment using Hiera
+data files and dynamic environments both being handled under Git and a desire to
+map configuration data and modules that are deployed.
+
+## The modules
+
 Below are all modules deployed within the environment.
 
 The Puppetfile is capable of being used with librarian
 or r10k to deploy. All dependencies are included that
 librarian would resolve, but r10k does not.
 
-## GitHub modules
+### GitHub modules
 - __jbouse/common__: Common resources, classes & defines
   - Current Version: 0.1.0
   - Upstream Source: https://github.com/jbouse/puppet-common
@@ -14,7 +56,7 @@ librarian would resolve, but r10k does not.
   - Current Version: 0.1.1
   - Upstream Source: https://github.com/UGNS/puppet-profile
 
-## Puppet Forge modules
+### Puppet Forge modules
 - __arnoudj/sudo__: Manage sudoers
   - Current Version: 1.1.1
   - Upstream Source: https://github.com/arnoudj/puppet-sudo
