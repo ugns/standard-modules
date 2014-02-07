@@ -11,7 +11,7 @@ librarian would resolve, but r10k does not.
   - Current Version: 0.1.0
   - Upstream Source: https://github.com/jbouse/puppet-common
 - __ugns/profile__: UnderGrid Network Services profile module
-  - Current Version: 0.1.0
+  - Current Version: 0.1.1
   - Upstream Source: https://github.com/UGNS/puppet-profile
 
 ## Puppet Forge modules
@@ -27,6 +27,12 @@ librarian would resolve, but r10k does not.
 - __luxflux/openvpn__: OpenVPN server puppet module
   - Current Version: 2.2.1
   - Upstream Source: https://github.com/luxflux/puppet-openvpn
+- __jamtur01/puppet_hipchat__: Puppet report handler for sending notifications to HipChat
+  - Current Version: 0.4.0
+  - Upstream Source: https://github.com/jamtur01/puppet-hipchat
+- __jamtur01/pushover__: Report processor that notifies Pushover channel about failed Puppet runs
+  - Current Version: 0.0.1
+  - Upstream Source: https://github.com/jamtur01/puppet-pushover
 - __nibalizer/puppetboard__: Install and configure PuppetBoard
   - Current Version: 1.3.0
   - Upstream Source: https://github.com/nibalizer/puppet-module-puppetboard
