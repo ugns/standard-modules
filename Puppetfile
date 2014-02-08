@@ -1,9 +1,11 @@
 forge "http://forge.puppetlabs.com"
 
 mod 'common',
-  :git => 'git@github.com:jbouse/puppet-common.git'
+  :git => 'git@github.com:jbouse/puppet-common.git',
+  :ref => '0.1.0'
 mod 'profile',
-  :git => 'git@github.com:UGNS/puppet-profile.git'
+  :git => 'git@github.com:UGNS/puppet-profile.git',
+  :ref => '0.1.1'
 mod 'denyhosts',
   :git => 'git@github.com:jbouse/puppetlabs-denyhosts.git',
   :ref => 'debian-support-update'
