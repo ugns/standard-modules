@@ -78,6 +78,9 @@ librarian would resolve, but r10k does not.
 - __nibalizer/puppetboard__: Install and configure PuppetBoard
   - Current Version: 1.3.0
   - Upstream Source: https://github.com/nibalizer/puppet-module-puppetboard
+- __nanliu/staging__: Manages file staging.
+  - Current Vrsion: 0.3.1
+  - Upstream Source: https://github.com/nanliu/puppet-staging
 - __puppetlabs/activemq__: ActiveMQ Puppet Module
   - Current Version: 0.2.0
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-activemq
