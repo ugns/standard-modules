@@ -9,6 +9,9 @@ mod 'profile',
 mod 'denyhosts',
   :git => 'git@github.com:jbouse/puppetlabs-denyhosts.git',
   :ref => 'debian-support-update'
+mod 'accounts',
+  :git => 'https://github.com/deric/puppet-accounts.git',
+  :ref => 'v0.1.1'
 
 mod 'arnoudj/sudo', '1.1.1'
 mod 'dalen/puppetdbquery', '1.3.3'

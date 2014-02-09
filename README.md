@@ -63,6 +63,9 @@ librarian would resolve, but r10k does not.
 - __dalen/puppetdbquery__: Query functions for the PuppetDB API
   - Current Version: 1.3.3
   - Upstream Source: https://github.com/dalen/puppet-puppetdbquery
+- __deric/accounts__: Module for managing user accounts and groups.
+  - Current Version: 0.1.1
+  - Upstream Source: https://github.com/deric/puppet-accounts
 - __garethr/erlang__: Module for installing erlang from official repos
   - Current Version: 0.2.0
   - Upstream Source: https://github.com/garethr/garethr-erlang
