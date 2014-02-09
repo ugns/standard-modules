@@ -144,6 +144,9 @@ librarian would resolve, but r10k does not.
 - __stephenrjohnson/puppet__: Resource types for managing puppet master and agent
   - Current Version: 0.0.19
   - Upstream Source: https://github.com/stephenrjohnson/puppetmodule
+- __thias/dovecot__: Dovecot IMAP server module
+  - Current Version: 0.1.1
+  - Upstream Source: https://github.com/thias/puppet-dovecot
 - __thias/postfix__: Postfix Mail Transport Agent module
   - Current Version: 0.3.0
   - Upstream Source: https://github.com/thias/puppet-postfix
