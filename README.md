@@ -57,6 +57,9 @@ librarian would resolve, but r10k does not.
   - Upstream Source: https://github.com/UGNS/puppet-profile
 
 ### Puppet Forge modules
+- __andschwa/unattended_upgrades__: Manage Unattended Upgrades
+  - Current Version: 0.1.2
+  - Upstream Source: https://github.com/andschwa/puppet-unattended_upgrades
 - __arnoudj/sudo__: Manage sudoers
   - Current Version: 1.1.1
   - Upstream Source: https://github.com/arnoudj/puppet-sudo
