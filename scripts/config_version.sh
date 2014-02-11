@@ -7,7 +7,7 @@
 ENVIRONMENT=$1
 
 gitdir="/etc/puppet/environments/${ENVIRONMENT}/"
-hieradir="/var/lib/hiera/"
+hieradir="/etc/puppet/data/${ENVIRONMENT}/"
 
 echo -n "$ENVIRONMENT/"
 cd $gitdir && echo -n $(git rev-parse --short HEAD)
