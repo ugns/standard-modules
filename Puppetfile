@@ -13,7 +13,6 @@ mod 'accounts',
   :git => 'https://github.com/jbouse/puppet-accounts.git',
   :ref => 'master'
 
-mod 'andschwa/unattended_upgrades', '0.1.2'
 mod 'arnoudj/sudo', '1.1.1'
 mod 'dalen/puppetdbquery', '1.3.3'
 mod 'garethr/erlang', '0.2.0'
