@@ -12,6 +12,9 @@ mod 'denyhosts',
 mod 'accounts',
   :git => 'https://github.com/jbouse/puppet-accounts.git',
   :ref => 'master'
+mod 'sks',
+  :git => 'git@github.com:UGNS/puppet-sks.git',
+  :ref => 'master'
 
 mod 'arnoudj/sudo', '1.1.1'
 mod 'dalen/puppetdbquery', '1.3.3'
