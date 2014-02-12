@@ -12,9 +12,6 @@ mod 'denyhosts',
 mod 'accounts',
   :git => 'https://github.com/jbouse/puppet-accounts.git',
   :ref => 'master'
-mod 'sks',
-  :git => 'git@github.com:UGNS/puppet-sks.git',
-  :ref => 'master'
 
 mod 'arnoudj/sudo', '1.1.1'
 mod 'dalen/puppetdbquery', '1.3.3'
@@ -22,6 +19,7 @@ mod 'garethr/erlang', '0.2.0'
 mod 'luxflux/openvpn', '2.2.1'
 mod 'jamtur01/puppet_hipchat', '0.4.0'
 mod 'jamtur01/pushover', '0.0.1'
+mod 'jbouse/sks', '0.1.0'
 mod 'nibalizer/puppetboard', '1.3.0'
 mod 'nanliu/staging', '0.3.1'
 mod 'puppetlabs/activemq', '0.2.0'
