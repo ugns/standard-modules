@@ -72,9 +72,6 @@ librarian would resolve, but r10k does not.
 - __garethr/erlang__: Module for installing erlang from official repos
   - Current Version: 0.2.0
   - Upstream Source: https://github.com/garethr/garethr-erlang
-- __luxflux/openvpn__: OpenVPN server puppet module
-  - Current Version: 2.2.1
-  - Upstream Source: https://github.com/luxflux/puppet-openvpn
 - __jamtur01/puppet_hipchat__: Puppet report handler for sending notifications to HipChat
   - Current Version: 0.4.0
   - Upstream Source: https://github.com/jamtur01/puppet-hipchat
@@ -156,3 +153,6 @@ librarian would resolve, but r10k does not.
 - __thias/postfix__: Postfix Mail Transport Agent module
   - Current Version: 0.3.0
   - Upstream Source: https://github.com/thias/puppet-postfix
+- __zleslie/openvpn__: Puppet powered OpenVPN
+  - Current Version: 1.0.0
+  - Upstream Source: https://github.com/xaque208/puppet-openvpn
