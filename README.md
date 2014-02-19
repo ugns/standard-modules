@@ -78,6 +78,9 @@ librarian would resolve, but r10k does not.
 - __jamtur01/pushover__: Report processor that notifies Pushover channel about failed Puppet runs
   - Current Version: 0.0.1
   - Upstream Source: https://github.com/jamtur01/puppet-pushover
+- __jfryman/nginx__: Puppet NGINX management module
+  - Current Version: 0.0.7
+  - Upstream Source: https://github.com/jfryman/puppet-nginx
 - __lex/dnsmasq__: Puppet Dnsmasq management module
   - Current Version: 2.2.0
   - Upstream Source: https://github.com/rlex/puppet-dnsmasq
@@ -117,9 +120,6 @@ librarian would resolve, but r10k does not.
 - __puppetlabs/mcollective__: MCollective Puppet Module
   - Current Version: 1.1.3
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-mcollective
-- __puppetlabs/nginx__: Puppet NGINX management module
-  - Current Version: 0.0.1
-  - Upstream Source: https://github.com/puppetlabs/puppetlabs-nginx
 - __puppetlabs/ntp__: NTP Module
   - Current Version: 3.0.1
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-ntp
