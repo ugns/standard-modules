@@ -55,9 +55,6 @@ librarian would resolve, but r10k does not.
 - __ugns/profile__: UnderGrid Network Services profile module
   - Current Version: 0.1.1
   - Upstream Source: https://github.com/UGNS/puppet-profile
-- __jbouse/sks__: Synchronizing Key Server (SKS) Puppet module'
-  - Current Version: 0.1.0
-  - Upstrem Source: https://github.com/UGNS/puppet-sks
 
 ### Puppet Forge modules
 - __arnoudj/sudo__: Manage sudoers
@@ -78,6 +75,9 @@ librarian would resolve, but r10k does not.
 - __jamtur01/pushover__: Report processor that notifies Pushover channel about failed Puppet runs
   - Current Version: 0.0.1
   - Upstream Source: https://github.com/jamtur01/puppet-pushover
+- __jbouse/sks__: Synchronizing Key Server (SKS) Puppet module'
+  - Current Version: 0.1.2
+  - Upstrem Source: https://github.com/UGNS/puppet-sks
 - __jfryman/nginx__: Puppet NGINX management module
   - Current Version: 0.0.7
   - Upstream Source: https://github.com/jfryman/puppet-nginx
