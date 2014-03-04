@@ -94,37 +94,37 @@ librarian would resolve, but r10k does not.
   - Current Version: 0.2.0
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-activemq
 - __puppetlabs/apache__: Puppet module for Apache
-  - Current Version: 0.10.0
+  - Current Version: 1.0.0
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-apache
 - __puppetlabs/apt__: Puppet Labs Apt Module
-  - Current Version: 1.4.0
+  - Current Version: 1.4.2
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-apt
 - __puppetlabs/concat__: Concat module
-  - Current Version: 1.1.0-rc1
+  - Current Version: 1.0.2
   - Upstream Source: http://github.com/puppetlabs/puppetlabs-concat
 - __puppetlabs/denyhosts__: Configure DenyHosts
   - Current Version: 0.0.1
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-denyhosts
 - __puppetlabs/firewall__: Manages Firewalls such as iptables
-  - Current Version: 0.4.2
+  - Current Version: 1.0.1
   - Upstream Source: http://forge.puppetlabs.com/puppetlabs/firewall
 - __puppetlabs/inifile__: Resource types for managing settings in INI files
-  - Current Version: 1.0.0
+  - Current Version: 1.0.3
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-inifile
 - __puppetlabs/java__: Manage the official Java runtime
   - Current Version: 1.0.1
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-java
 - __puppetlabs/java_ks__: Manage arbitrary Java keystore files
-  - Current Version: 1.2.0
+  - Current Version: 1.2.2
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-java_ks
 - __puppetlabs/mcollective__: MCollective Puppet Module
   - Current Version: 1.1.3
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-mcollective
 - __puppetlabs/ntp__: NTP Module
-  - Current Version: 3.0.1
+  - Current Version: 3.0.3
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-ntp
 - __puppetlabs/postgresql__: PostgreSQL defined resource types
-  - Current Version: 3.2.0
+  - Current Version: 3.3.2
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-postgresql
 - __puppetlabs/puppetdb__: PuppetDB resource types
   - Current Version: 3.0.0
@@ -133,7 +133,7 @@ librarian would resolve, but r10k does not.
   - Current Version: 3.1.0
   - Upstream Source: http://github.com/puppetlabs/puppetlabs-rabbitmq
 - __puppetlabs/stdlib__: Puppet Module Standard Library
-  - Current Version: 4.1.0
+  - Current Version: 3.2.1
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-stdlib
 - __puppetlabs/vcsrepo__: Manage repositories from various version control systems
   - Current Version: 0.2.0
