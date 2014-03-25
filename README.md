@@ -120,6 +120,9 @@ librarian would resolve, but r10k does not.
 - __puppetlabs/mcollective__: MCollective Puppet Module
   - Current Version: 1.1.3
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-mcollective
+- __puppetlabs/mysql__: Mysql module
+  - Current Version: 2.2.3
+  - Upstream Source: https://github.com/puppetlabs/puppetlabs-mysql
 - __puppetlabs/ntp__: NTP Module
   - Current Version: 3.0.3
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-ntp
