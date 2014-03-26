@@ -5,7 +5,7 @@ mod 'common',
   :ref => '0.1.0'
 mod 'profile',
   :git => 'git@github.com:UGNS/puppet-profile.git',
-  :ref => '0.1.2'
+  :ref => '0.1.3'
 mod 'denyhosts',
   :git => 'git@github.com:jbouse/puppetlabs-denyhosts.git',
   :ref => 'debian-support-update'
