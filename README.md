@@ -159,6 +159,9 @@ librarian would resolve, but r10k does not.
 - __thias/dovecot__: Dovecot IMAP server module
   - Current Version: 0.1.1
   - Upstream Source: https://github.com/thias/puppet-dovecot
+- __thias/php__: PHP module
+  - Current Version: 0.3.10
+  - Upstream Source: https://github.com/thias/puppet-php
 - __thias/postfix__: Postfix Mail Transport Agent module
   - Current Version: 0.3.0
   - Upstream Source: https://github.com/thias/puppet-postfix
