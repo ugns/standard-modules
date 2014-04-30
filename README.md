@@ -76,7 +76,7 @@ librarian would resolve, but r10k does not.
   - Current Version: 0.0.1
   - Upstream Source: https://github.com/jamtur01/puppet-pushover
 - __jbouse/sks__: Synchronizing Key Server (SKS) Puppet module'
-  - Current Version: 0.1.4
+  - Current Version: 0.1.5
   - Upstrem Source: https://github.com/UGNS/puppet-sks
 - __jfryman/nginx__: Puppet NGINX management module
   - Current Version: 0.0.7
