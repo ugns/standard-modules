@@ -145,7 +145,7 @@ librarian would resolve, but r10k does not.
   - Current Version: 0.2.0
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-vcsrepo
 - __richardc/datacat__: Puppet type for handling data fragments
-  - Current Version: 0.4.2
+  - Current Version: 0.4.3
   - Upstream Source: https://github.com/richardc/puppet-datacat
 - __stahnma/epel__: Setup the EPEL package repo
   - Current Version: 0.0.6
