@@ -84,6 +84,9 @@ librarian would resolve, but r10k does not.
 - __lex/dnsmasq__: Puppet Dnsmasq management module
   - Current Version: 2.2.0
   - Upstream Source: https://github.com/rlex/puppet-dnsmasq
+- __mhuffnagle/make__: Installs the make package
+  - Current Version: 0.0.2
+  - Upstream Source: https://github.com/Element84/puppet-make
 - __mikegleasonjr/wordpress__: Puppet module to set up multiple instances of wordpress
   - Current Version: 0.7.3
   - Upstream Source: https://github.com/mikegleasonjr/puppet-wordpress
