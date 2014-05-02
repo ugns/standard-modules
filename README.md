@@ -72,6 +72,9 @@ librarian would resolve, but r10k does not.
 - __gentoo/portage__: Puppet types and providers for Gentoo portage
   - Current Version: 2.1.0
   - Upstream Source: https://github.com/gentoo/puppet-portage
+- __hunner/hiera__: Deploy hiera.yaml with hierarchy, and datadir
+  - Current Version: 1.0.2
+  - Upstream Source: https://github.com/hunner/puppet-hiera
 - __jamtur01/puppet_hipchat__: Puppet report handler for sending notifications to HipChat
   - Current Version: 0.4.0
   - Upstream Source: https://github.com/jamtur01/puppet-hipchat
