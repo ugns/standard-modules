@@ -111,6 +111,12 @@ librarian would resolve, but r10k does not.
 - __puppetlabs/firewall__: Manages Firewalls such as iptables
   - Current Version: 1.0.2
   - Upstream Source: http://forge.puppetlabs.com/puppetlabs/firewall
+- __puppetlabs/gcc__: Module for installing gcc build utils
+  - Current Version: 0.1.0
+  - Upstream Source: https://github.com/puppetlabs/puppetlabs-gcc
+- __puppetlabs/git__: Module for installing git
+  - Current Version: 0.0.3
+  - Upstream Source: https://github.com/puppetlabs/puppetlabs-git
 - __puppetlabs/inifile__: Resource types for managing settings in INI files
   - Current Version: 1.0.3
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-inifile
