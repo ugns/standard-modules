@@ -138,6 +138,9 @@ librarian would resolve, but r10k does not.
 - __puppetlabs/rabbitmq__: RabbitMQ Puppet Module
   - Current Version: 3.1.0
   - Upstream Source: http://github.com/puppetlabs/puppetlabs-rabbitmq
+- __puppetlabs/ruby__: Ruby Module for puppet
+  - Current Version: 0.1.0
+  - Upstream Source: https://github.com/puppetlabs/puppetlabs-ruby
 - __puppetlabs/stdlib__: Puppet Module Standard Library
   - Current Version: 3.2.1
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-stdlib
