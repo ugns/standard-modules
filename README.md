@@ -135,6 +135,9 @@ librarian would resolve, but r10k does not.
 - __puppetlabs/ntp__: NTP Module
   - Current Version: 3.0.3
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-ntp
+- __puppetlabs/pe_gem__: Puppet Labs PE Gem module
+  - Current Version: 0.0.1
+  - Upstream Source: https://github.com/puppetlabs/puppetlabs-pe_gem
 - __puppetlabs/postgresql__: PostgreSQL defined resource types
   - Current Version: 3.3.3
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-postgresql
