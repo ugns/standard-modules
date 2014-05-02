@@ -165,6 +165,9 @@ librarian would resolve, but r10k does not.
 - __thias/postfix__: Postfix Mail Transport Agent module
   - Current Version: 0.3.0
   - Upstream Source: https://github.com/thias/puppet-postfix
+- __zack/r10k__: Dynamic environments with git & r10k
+  - Current Version: 1.0.2
+  - Upstream Source: https://github.com/acidprime/r10k
 - __zleslie/openvpn__: Puppet powered OpenVPN
   - Current Version: 1.0.0
   - Upstream Source: https://github.com/xaque208/puppet-openvpn
