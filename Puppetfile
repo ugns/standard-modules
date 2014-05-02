@@ -16,6 +16,7 @@ mod 'accounts',
 mod 'arnoudj/sudo', '1.1.1'
 mod 'dalen/puppetdbquery', '1.3.3'
 mod 'garethr/erlang', '0.2.0'
+mod 'gentoo/portage', '2.1.0'
 mod 'jamtur01/puppet_hipchat', '0.4.0'
 mod 'jamtur01/pushover', '0.0.1'
 mod 'jbouse/sks', '0.1.5'

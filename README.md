@@ -69,6 +69,9 @@ librarian would resolve, but r10k does not.
 - __garethr/erlang__: Module for installing erlang from official repos
   - Current Version: 0.2.0
   - Upstream Source: https://github.com/garethr/garethr-erlang
+- __gentoo/portage__: Puppet types and providers for Gentoo portage
+  - Current Version: 2.1.0
+  - Upstream Source: https://github.com/gentoo/puppet-portage
 - __jamtur01/puppet_hipchat__: Puppet report handler for sending notifications to HipChat
   - Current Version: 0.4.0
   - Upstream Source: https://github.com/jamtur01/puppet-hipchat
