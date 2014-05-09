@@ -115,7 +115,7 @@ librarian would resolve, but r10k does not.
   - Current Version: 1.0.2
   - Upstream Source: http://github.com/puppetlabs/puppetlabs-concat
 - __puppetlabs/denyhosts__: Configure DenyHosts
-  - Current Version: 0.0.1
+  - Current Version: 0.1.0
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-denyhosts
 - __puppetlabs/firewall__: Manages Firewalls such as iptables
   - Current Version: 1.0.2

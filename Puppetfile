@@ -6,9 +6,6 @@ mod 'common',
 mod 'profile',
   :git => 'git@github.com:UGNS/puppet-profile.git',
   :ref => '0.1.4'
-mod 'denyhosts',
-  :git => 'git@github.com:jbouse/puppetlabs-denyhosts.git',
-  :ref => 'debian-support-update'
 
 mod 'arnoudj/sudo', '1.1.1'
 mod 'dalen/puppetdbquery', '1.3.3'
@@ -29,7 +26,7 @@ mod 'puppetlabs/activemq', '0.2.0'
 mod 'puppetlabs/apache', '1.0.1'
 mod 'puppetlabs/apt', '1.4.2'
 mod 'puppetlabs/concat', '1.0.2'
-# mod 'puppetlabs/denyhosts', '0.0.1'
+mod 'puppetlabs/denyhosts', '0.1.0'
 mod 'puppetlabs/firewall', '1.0.2'
 mod 'puppetlabs/gcc', '0.1.0'
 mod 'puppetlabs/git', '0.0.3'
