@@ -151,7 +151,7 @@ librarian would resolve, but r10k does not.
   - Current Version: 3.3.3
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-postgresql
 - __puppetlabs/puppetdb__: PuppetDB resource types
-  - Current Version: 3.0.0
+  - Current Version: 3.0.1
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-puppetdb
 - __puppetlabs/rabbitmq__: RabbitMQ Puppet Module
   - Current Version: 3.1.0
