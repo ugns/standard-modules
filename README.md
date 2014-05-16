@@ -175,7 +175,7 @@ librarian would resolve, but r10k does not.
   - Current Version: 1.6.3
   - Upstream Source: https://github.com/stankevich/puppet-python
 - __stephenrjohnson/puppet__: Resource types for managing puppet master and agent
-  - Current Version: 0.0.19
+  - Current Version: 0.0.21
   - Upstream Source: https://github.com/stephenrjohnson/puppetmodule
 - __thias/dovecot__: Dovecot IMAP server module
   - Current Version: 0.1.1
