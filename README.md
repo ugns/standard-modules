@@ -96,8 +96,8 @@ librarian would resolve, but r10k does not.
 - __mikegleasonjr/wordpress__: Puppet module to set up multiple instances of wordpress
   - Current Version: 0.7.3
   - Upstream Source: https://github.com/mikegleasonjr/puppet-wordpress
-- __nanliu/staging__: Manages file staging.
-  - Current Vrsion: 0.3.1
+- __nanliu/staging__: Manages compressed file staging and deployment
+  - Current Vrsion: 0.4.0
   - Upstream Source: https://github.com/nanliu/puppet-staging
 - __nibalizer/puppetboard__: Install and configure PuppetBoard
   - Current Version: 1.3.0
