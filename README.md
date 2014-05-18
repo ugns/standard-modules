@@ -25,20 +25,14 @@ is then updated with the following:
 
 ```INI
 [master]
-modulepath = /etc/puppet/environments/$environment/modules
-manifest = /etc/puppet/environments/$environment/manifests/site.pp
-autosign = /etc/puppet/environments/$environment/scripts/autosigner.rb
-config_version = /etc/puppet/environments/$environment/scripts/config_version.sh $environment
+environmentpath = $confdir/environments
+autosign = $environmentpath/$environment/scripts/autosigner.rb
 ```
-At a minimum the `modulepath` and `manifest` are required to support the
-dynamic environments r10k deploys.
+The `environmentpath` sets up the directory environments in the Puppet master
+which will be deployed via r10k.
 
 The `autosign` script can handle automatically validating AWS EC2 instances
 and could be modified easily enough for additional validation.
-
-The ``config_version`` script is designed to work within our environment using Hiera
-data files and dynamic environments both being handled under Git and a desire to
-map configuration data and modules that are deployed.
 
 ## The modules
 
