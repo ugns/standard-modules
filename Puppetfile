@@ -7,6 +7,7 @@ mod 'profile',
   :git => 'git@github.com:UGNS/puppet-profile.git',
   :ref => '0.1.4'
 
+mod 'andschwa/mumble', '0.0.3'
 mod 'arnoudj/sudo', '1.1.1'
 mod 'dalen/puppetdbquery', '1.3.3'
 mod 'deric/accounts', '0.1.1'

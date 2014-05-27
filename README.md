@@ -52,6 +52,10 @@ librarian would resolve, but r10k does not.
   - Upstream Source: https://github.com/UGNS/puppet-profile
 
 ### Puppet Forge modules
+- __andschwa/mumble__: Installs, configures, and manages a Mumble server
+  - Current Version: 0.0.3
+  - Upstream Source: https://github.com/andschwa/puppet-mumble
+
 - __arnoudj/sudo__: Manage sudoers
   - Current Version: 1.1.1
   - Upstream Source: https://github.com/arnoudj/puppet-sudo
