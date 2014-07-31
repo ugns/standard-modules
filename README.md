@@ -126,12 +126,12 @@ librarian would resolve, but r10k does not.
   - Puppet Enterprise supported module
 
 - __puppetlabs/apt__: Puppet Labs Apt Module
-  - Current Version: 1.4.2
+  - Current Version: 1.5.2
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-apt
   - Puppet Enterprise supported module
 
 - __puppetlabs/concat__: Concat module
-  - Current Version: 1.0.2
+  - Current Version: 1.0.4
   - Upstream Source: http://github.com/puppetlabs/puppetlabs-concat
   - Puppet Enterprise supported module
 
@@ -140,7 +140,7 @@ librarian would resolve, but r10k does not.
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-denyhosts
 
 - __puppetlabs/firewall__: Manages Firewalls such as iptables
-  - Current Version: 1.0.2
+  - Current Version: 1.1.3
   - Upstream Source: http://forge.puppetlabs.com/puppetlabs/firewall
   - Puppet Enterprise supported module
 
@@ -153,7 +153,7 @@ librarian would resolve, but r10k does not.
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-git
 
 - __puppetlabs/inifile__: Resource types for managing settings in INI files
-  - Current Version: 1.0.3
+  - Current Version: 1.1.3
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-inifile
   - Puppet Enterprise supported module
 
@@ -171,12 +171,12 @@ librarian would resolve, but r10k does not.
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-mcollective
 
 - __puppetlabs/mysql__: Mysql module
-  - Current Version: 2.2.3
+  - Current Version: 2.3.1
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-mysql
   - Puppet Enterprise supported module
 
 - __puppetlabs/ntp__: NTP Module
-  - Current Version: 3.0.3
+  - Current Version: 3.1.2
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-ntp
   - Puppet Enterprise supported module
 
@@ -185,7 +185,7 @@ librarian would resolve, but r10k does not.
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-pe_gem
 
 - __puppetlabs/postgresql__: PostgreSQL defined resource types
-  - Current Version: 3.3.3
+  - Current Version: 3.4.1
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-postgresql
   - Puppet Enterprise supported module
 
@@ -202,12 +202,12 @@ librarian would resolve, but r10k does not.
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-ruby
 
 - __puppetlabs/stdlib__: Puppet Module Standard Library
-  - Current Version: 3.2.1
+  - Current Version: 4.3.2
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-stdlib
   - Puppet Enterprise supported module
 
 - __puppetlabs/vcsrepo__: Manage repositories from various version control systems
-  - Current Version: 0.2.0
+  - Current Version: 1.1.0
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-vcsrepo
 
 - __richardc/datacat__: Puppet type for handling data fragments
@@ -223,7 +223,7 @@ librarian would resolve, but r10k does not.
   - Upstream Source: https://github.com/stankevich/puppet-python
 
 - __stephenrjohnson/puppet__: Resource types for managing puppet master and agent
-  - Current Version: 0.0.21
+  - Current Version: 0.0.23
   - Upstream Source: https://github.com/stephenrjohnson/puppetmodule
 
 - __thias/dovecot__: Dovecot IMAP server module
