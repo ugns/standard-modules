@@ -1,9 +1,9 @@
 forge "https://forgeapi.puppetlabs.com"
 
-mod 'ugns/common',
+mod 'common',
   :git => 'git@github.com:jbouse/puppet-common.git',
   :ref => '0.1.0'
-mod 'ugns/profile',
+mod 'profile',
   :git => 'git@github.com:UGNS/puppet-profile.git',
   :ref => '0.1.4'
 
