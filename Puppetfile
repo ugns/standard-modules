@@ -10,6 +10,7 @@ mod 'profile',
 mod 'andschwa/mumble', '0.0.3'
 mod 'arnoudj/sudo', '1.1.2'
 mod 'dalen/puppetdbquery', '1.5.2'
+mod 'darin/zypprepo', '1.0.1'
 mod 'deric/accounts', '0.1.1'
 mod 'garethr/erlang', '0.3.0'
 mod 'gentoo/portage', '2.2.0'
