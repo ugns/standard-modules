@@ -57,23 +57,28 @@ librarian would resolve, but r10k does not.
   - Upstream Source: https://github.com/andschwa/puppet-mumble
 
 - __arnoudj/sudo__: Manage sudoers
-  - Current Version: 1.1.1
+  - Current Version: 1.1.2
   - Upstream Source: https://github.com/arnoudj/puppet-sudo
 
 - __dalen/puppetdbquery__: Query functions for the PuppetDB API
-  - Current Version: 1.3.3
+  - Current Version: 1.5.2
   - Upstream Source: https://github.com/dalen/puppet-puppetdbquery
+
+- __darin/zypprepo__: A Puppet description of a zypper repository
+  - Current Version: 1.0.1
+  - Upstream Source: https://github.com/deadpoint/puppet-zypprepo
 
 - __deric/accounts__: Module for managing user accounts and groups.
   - Current Version: 0.1.1
   - Upstream Source: https://github.com/deric/puppet-accounts
 
 - __garethr/erlang__: Module for installing erlang from official repos
-  - Current Version: 0.2.0
+  - Current Version: 0.3.0
   - Upstream Source: https://github.com/garethr/garethr-erlang
+  - Puppet Approved Module
 
 - __gentoo/portage__: Puppet types and providers for Gentoo portage
-  - Current Version: 2.1.0
+  - Current Version: 2.2.0
   - Upstream Source: https://github.com/gentoo/puppet-portage
 
 - __hunner/hiera__: Deploy hiera.yaml with hierarchy, and datadir
@@ -89,11 +94,11 @@ librarian would resolve, but r10k does not.
   - Upstrem Source: https://github.com/UGNS/puppet-sks
 
 - __jfryman/nginx__: Puppet NGINX management module
-  - Current Version: 0.0.7
+  - Current Version: 0.1.1
   - Upstream Source: https://github.com/jfryman/puppet-nginx
 
 - __lex/dnsmasq__: Puppet Dnsmasq management module
-  - Current Version: 2.2.0
+  - Current Version: 2.4.0
   - Upstream Source: https://github.com/rlex/puppet-dnsmasq
 
 - __mhuffnagle/make__: Installs the make package
@@ -105,31 +110,32 @@ librarian would resolve, but r10k does not.
   - Upstream Source: https://github.com/mikegleasonjr/puppet-wordpress
 
 - __nanliu/staging__: Manages compressed file staging and deployment
-  - Current Vrsion: 0.4.0
+  - Current Vrsion: 1.0.0
   - Upstream Source: https://github.com/nanliu/puppet-staging
+  - Puppet Approved Module
 
 - __nibalizer/puppetboard__: Install and configure PuppetBoard
-  - Current Version: 1.3.0
+  - Current Version: 2.5.0
   - Upstream Source: https://github.com/nibalizer/puppet-module-puppetboard
 
 - __puppetlabs/activemq__: ActiveMQ Puppet Module
-  - Current Version: 0.2.0
+  - Current Version: 0.3.1
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-activemq
 
 - __puppetlabs/apache__: Puppet module for Apache
-  - Current Version: 1.0.1
+  - Current Version: 1.1.1
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-apache
-  - Puppet Enterprise supported module
+  - Puppet Supported Module
 
 - __puppetlabs/apt__: Puppet Labs Apt Module
-  - Current Version: 1.5.2
+  - Current Version: 1.6.0
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-apt
-  - Puppet Enterprise supported module
+  - Puppet Supported Module
 
 - __puppetlabs/concat__: Concat module
-  - Current Version: 1.0.4
+  - Current Version: 1.1.1
   - Upstream Source: http://github.com/puppetlabs/puppetlabs-concat
-  - Puppet Enterprise supported module
+  - Puppet Supported Module
 
 - __puppetlabs/denyhosts__: Configure DenyHosts
   - Current Version: 0.1.0
@@ -138,88 +144,103 @@ librarian would resolve, but r10k does not.
 - __puppetlabs/firewall__: Manages Firewalls such as iptables
   - Current Version: 1.1.3
   - Upstream Source: http://forge.puppetlabs.com/puppetlabs/firewall
-  - Puppet Enterprise supported module
+  - Puppet Supported Module
 
 - __puppetlabs/gcc__: Module for installing gcc build utils
-  - Current Version: 0.1.0
+  - Current Version: 0.2.0
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-gcc
 
 - __puppetlabs/git__: Module for installing git
-  - Current Version: 0.0.3
+  - Current Version: 0.2.0
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-git
 
 - __puppetlabs/inifile__: Resource types for managing settings in INI files
   - Current Version: 1.1.3
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-inifile
-  - Puppet Enterprise supported module
+  - Puppet Supported Module
 
 - __puppetlabs/java__: Manage the official Java runtime
-  - Current Version: 1.0.1
+  - Current Version: 1.1.2
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-java
 
 - __puppetlabs/java_ks__: Manage arbitrary Java keystore files
-  - Current Version: 1.2.3
+  - Current Version: 1.2.5
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-java_ks
-  - Puppet Enterprise supported module
+  - Puppet Supported Module
 
 - __puppetlabs/mcollective__: MCollective Puppet Module
-  - Current Version: 1.1.3
+  - Current Version: 2.0.0
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-mcollective
 
 - __puppetlabs/mysql__: Mysql module
   - Current Version: 2.3.1
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-mysql
-  - Puppet Enterprise supported module
+  - Puppet Supported Module
 
 - __puppetlabs/ntp__: NTP Module
-  - Current Version: 3.1.2
+  - Current Version: 3.2.0
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-ntp
-  - Puppet Enterprise supported module
+  - Puppet Supported Module
 
 - __puppetlabs/pe_gem__: Puppet Labs PE Gem module
   - Current Version: 0.0.1
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-pe_gem
 
 - __puppetlabs/postgresql__: PostgreSQL defined resource types
-  - Current Version: 3.4.1
+  - Current Version: 4.0.0
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-postgresql
-  - Puppet Enterprise supported module
+  - Puppet Supported Module
 
 - __puppetlabs/puppetdb__: PuppetDB resource types
-  - Current Version: 3.0.1
+  - Current Version: 4.0.0
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-puppetdb
 
 - __puppetlabs/rabbitmq__: RabbitMQ Puppet Module
-  - Current Version: 3.1.0
+  - Current Version: 4.1.0
   - Upstream Source: http://github.com/puppetlabs/puppetlabs-rabbitmq
 
 - __puppetlabs/ruby__: Ruby Module for puppet
-  - Current Version: 0.1.0
+  - Current Version: 0.3.0
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-ruby
 
 - __puppetlabs/stdlib__: Puppet Module Standard Library
   - Current Version: 4.3.2
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-stdlib
-  - Puppet Enterprise supported module
+  - Puppet Supported Module
+
+- __puppetlabs/tomcat__: Puppet module for managing Apache Tomcat
+  - Current Version: 1.0.1
+  - Upstream Source: https://github.com/puppetlabs/puppetlabs-tomcat
+  - Puppet Supported Module
 
 - __puppetlabs/vcsrepo__: Manage repositories from various version control systems
   - Current Version: 1.1.0
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-vcsrepo
 
 - __richardc/datacat__: Puppet type for handling data fragments
-  - Current Version: 0.4.3
+  - Current Version: 0.5.0
   - Upstream Source: https://github.com/richardc/puppet-datacat
 
+- __ripienaar/module_data__: A hiera backend to allow the use of data while writing sharable modules
+  - Current Version: 0.0.3
+  - Upstream Source: https://github.com/ripienaar/puppet-module-data
+
+- __rtyler/jenkins__: Manage the Jenkins continuous integration service with Puppet
+  - Current Version: 1.2.0
+  - Upstream Source: https://github.com/jenkinsci/puppet-jenkins
+  - Puppet Approved Module
+
 - __stahnma/epel__: Setup the EPEL package repo
-  - Current Version: 0.0.6
+  - Current Version: 1.0.0
   - Upstream Source: http://github.com/stahnma/puppet-module-epel
+  - Puppet Approved Module
 
 - __stankevich/python__: Puppet module for Python
-  - Current Version: 1.6.3
+  - Current Version: 1.7.10
   - Upstream Source: https://github.com/stankevich/puppet-python
 
 - __stephenrjohnson/puppet__: Resource types for managing puppet master and agent
-  - Current Version: 0.0.23
+  - Current Version: 1.0.0
   - Upstream Source: https://github.com/stephenrjohnson/puppetmodule
 
 - __thias/dovecot__: Dovecot IMAP server module
@@ -227,15 +248,15 @@ librarian would resolve, but r10k does not.
   - Upstream Source: https://github.com/thias/puppet-dovecot
 
 - __thias/php__: PHP module
-  - Current Version: 0.3.10
+  - Current Version: 1.0.0
   - Upstream Source: https://github.com/thias/puppet-php
 
 - __thias/postfix__: Postfix Mail Transport Agent module
-  - Current Version: 0.3.0
+  - Current Version: 0.3.3
   - Upstream Source: https://github.com/thias/puppet-postfix
 
 - __zack/r10k__: Dynamic environments with git & r10k
-  - Current Version: 1.0.2
+  - Current Version: 2.3.0
   - Upstream Source: https://github.com/acidprime/r10k
 
 - __zleslie/openvpn__: Puppet powered OpenVPN
