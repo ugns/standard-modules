@@ -5,7 +5,7 @@ mod 'common',
   :ref => '0.1.0'
 mod 'profile',
   :git => 'git@github.com:UGNS/puppet-profile.git',
-  :ref => '0.1.4'
+  :ref => '0.1.5'
 
 mod 'andschwa/mumble', '0.0.3'
 mod 'arnoudj/sudo', '1.1.2'
