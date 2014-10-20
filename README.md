@@ -85,6 +85,10 @@ librarian would resolve, but r10k does not.
   - Current Version: 1.0.2
   - Upstream Source: https://github.com/hunner/puppet-hiera
 
+- __hunner/wordpress__: Puppet module to set up multiple instances of wordpress
+  - Current Version: 1.0.0
+  - Upstream Source: https://github.com/hunner/puppet-wordpress
+
 - __jamtur01/puppet_hipchat__: Puppet report handler for sending notifications to HipChat
   - Current Version: 0.4.0
   - Upstream Source: https://github.com/jamtur01/puppet-hipchat
@@ -104,10 +108,6 @@ librarian would resolve, but r10k does not.
 - __mhuffnagle/make__: Installs the make package
   - Current Version: 0.0.2
   - Upstream Source: https://github.com/Element84/puppet-make
-
-- __mikegleasonjr/wordpress__: Puppet module to set up multiple instances of wordpress
-  - Current Version: 0.7.3
-  - Upstream Source: https://github.com/mikegleasonjr/puppet-wordpress
 
 - __nanliu/staging__: Manages compressed file staging and deployment
   - Current Vrsion: 1.0.0

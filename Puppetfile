@@ -15,12 +15,12 @@ mod 'deric/accounts', '0.1.1'
 mod 'garethr/erlang', '0.3.0'         # Approved
 mod 'gentoo/portage', '2.2.0'
 mod 'hunner/hiera', '1.0.2'
+mod 'hunner/wordpress', '1.0.0'
 mod 'jamtur01/puppet_hipchat', '0.4.0'
 mod 'jbouse/sks', '0.1.5'
 mod 'jfryman/nginx', '0.1.1'
 mod 'lex/dnsmasq', '2.4.0'
 mod 'mhuffnagle/make', '0.0.2'
-mod 'mikegleasonjr/wordpress', '0.7.3'
 mod 'nanliu/staging', '1.0.0'         # Approved
 mod 'nibalizer/puppetboard', '2.5.0'
 mod 'puppetlabs/activemq', '0.3.1'
