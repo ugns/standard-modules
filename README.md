@@ -240,7 +240,7 @@ librarian would resolve, but r10k does not.
   - Upstream Source: https://github.com/stankevich/puppet-python
 
 - __stephenrjohnson/puppet__: Resource types for managing puppet master and agent
-  - Current Version: 1.0.0
+  - Current Version: 1.1.0
   - Upstream Source: https://github.com/stephenrjohnson/puppetmodule
 
 - __thias/dovecot__: Dovecot IMAP server module

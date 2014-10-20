@@ -50,7 +50,7 @@ mod 'ripienaar/module_data', '0.0.3'
 mod 'rtyler/jenkins', '1.2.0'         # Approved
 mod 'stahnma/epel', '1.0.0'           # Approved
 mod 'stankevich/python', '1.7.10'
-mod 'stephenrjohnson/puppet', '1.0.0'
+mod 'stephenrjohnson/puppet', '1.1.0'
 mod 'thias/dovecot', '0.1.1'
 mod 'thias/php', '1.0.0'
 mod 'thias/postfix', '0.3.3'
