@@ -51,6 +51,10 @@ librarian would resolve, but r10k does not.
   - Current Version: 0.1.4
   - Upstream Source: https://github.com/UGNS/puppet-profile
 
+- __jbouse/roundcube__: Roundcube Webmail application
+  - Current Version: 0.1.0
+  - Upstream Source: https://github.com/UGNS/puppet-roundcube
+
 ### Puppet Forge modules
 - __andschwa/mumble__: Installs, configures, and manages a Mumble server
   - Current Version: 0.0.3

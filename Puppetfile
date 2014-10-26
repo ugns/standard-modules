@@ -6,6 +6,8 @@ mod 'common',
 mod 'profile',
   :git => 'git@github.com:UGNS/puppet-profile.git',
   :ref => '0.1.5'
+mod 'roundcube',
+  :git => 'git@github.com:UGNS/puppet-roundcube.git'
 
 mod 'andschwa/mumble', '0.0.3'
 mod 'arnoudj/sudo', '1.1.2'
