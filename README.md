@@ -113,8 +113,17 @@ librarian would resolve, but r10k does not.
   - Current Version: 0.0.2
   - Upstream Source: https://github.com/Element84/puppet-make
 
+- __mkrakowitzer/deploy__:
+  - Current Version: 0.0.3
+  - Upstream Source:
+
+- __mkrakowitzer/jira__:
+  - Current Version: 1.1.3
+  - Upstream Source:
+  - Puppet Approved Module
+
 - __nanliu/staging__: Manages compressed file staging and deployment
-  - Current Vrsion: 1.0.0
+  - Current Vrsion: 1.0.2
   - Upstream Source: https://github.com/nanliu/puppet-staging
   - Puppet Approved Module
 
@@ -127,17 +136,17 @@ librarian would resolve, but r10k does not.
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-activemq
 
 - __puppetlabs/apache__: Puppet module for Apache
-  - Current Version: 1.1.1
+  - Current Version: 1.2.0
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-apache
   - Puppet Supported Module
 
 - __puppetlabs/apt__: Puppet Labs Apt Module
-  - Current Version: 1.6.0
+  - Current Version: 1.7.0
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-apt
   - Puppet Supported Module
 
 - __puppetlabs/concat__: Concat module
-  - Current Version: 1.1.1
+  - Current Version: 1.1.2
   - Upstream Source: http://github.com/puppetlabs/puppetlabs-concat
   - Puppet Supported Module
 
@@ -146,7 +155,7 @@ librarian would resolve, but r10k does not.
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-denyhosts
 
 - __puppetlabs/firewall__: Manages Firewalls such as iptables
-  - Current Version: 1.1.3
+  - Current Version: 1.2.0
   - Upstream Source: http://forge.puppetlabs.com/puppetlabs/firewall
   - Puppet Supported Module
 
@@ -159,16 +168,16 @@ librarian would resolve, but r10k does not.
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-git
 
 - __puppetlabs/inifile__: Resource types for managing settings in INI files
-  - Current Version: 1.1.3
+  - Current Version: 1.2.0
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-inifile
   - Puppet Supported Module
 
 - __puppetlabs/java__: Manage the official Java runtime
-  - Current Version: 1.1.2
+  - Current Version: 1.2.0
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-java
 
 - __puppetlabs/java_ks__: Manage arbitrary Java keystore files
-  - Current Version: 1.2.5
+  - Current Version: 1.2.6
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-java_ks
   - Puppet Supported Module
 
@@ -177,12 +186,12 @@ librarian would resolve, but r10k does not.
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-mcollective
 
 - __puppetlabs/mysql__: Mysql module
-  - Current Version: 2.3.1
+  - Current Version: 3.0.0
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-mysql
   - Puppet Supported Module
 
 - __puppetlabs/ntp__: NTP Module
-  - Current Version: 3.2.0
+  - Current Version: 3.3.0
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-ntp
   - Puppet Supported Module
 
@@ -191,7 +200,7 @@ librarian would resolve, but r10k does not.
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-pe_gem
 
 - __puppetlabs/postgresql__: PostgreSQL defined resource types
-  - Current Version: 4.0.0
+  - Current Version: 4.1.0
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-postgresql
   - Puppet Supported Module
 
@@ -208,17 +217,17 @@ librarian would resolve, but r10k does not.
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-ruby
 
 - __puppetlabs/stdlib__: Puppet Module Standard Library
-  - Current Version: 4.3.2
+  - Current Version: 4.4.0
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-stdlib
   - Puppet Supported Module
 
 - __puppetlabs/tomcat__: Puppet module for managing Apache Tomcat
-  - Current Version: 1.0.1
+  - Current Version: 1.2.0
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-tomcat
   - Puppet Supported Module
 
 - __puppetlabs/vcsrepo__: Manage repositories from various version control systems
-  - Current Version: 1.1.0
+  - Current Version: 1.2.0
   - Upstream Source: https://github.com/puppetlabs/puppetlabs-vcsrepo
 
 - __richardc/datacat__: Puppet type for handling data fragments
@@ -230,7 +239,7 @@ librarian would resolve, but r10k does not.
   - Upstream Source: https://github.com/ripienaar/puppet-module-data
 
 - __rtyler/jenkins__: Manage the Jenkins continuous integration service with Puppet
-  - Current Version: 1.2.0
+  - Current Version: 1.3.0
   - Upstream Source: https://github.com/jenkinsci/puppet-jenkins
   - Puppet Approved Module
 
